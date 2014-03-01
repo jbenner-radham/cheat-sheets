@@ -1,0 +1,3 @@
+# Phalcon - A Crazy Awesome Lighting Fast MVC Framework
+
+### I'll copy my notes over here later...
