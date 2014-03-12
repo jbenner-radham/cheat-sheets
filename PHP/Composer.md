@@ -27,3 +27,8 @@ composer global require <vendor>/<package>:<branch>
 ```shell
 composer global update
 ```
+
+#### Self-Update (Update Composer Itself)
+```shell
+composer self-update
+```
