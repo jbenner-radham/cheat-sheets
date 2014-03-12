@@ -1,4 +1,4 @@
- # Node.js via Homebrew (OS X)
+# Node.js via Homebrew (OS X)
 
 ### Properly install node.js and npm so as to coexist with Homebrew. 
 
